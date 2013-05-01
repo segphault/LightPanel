@@ -9,3 +9,7 @@ LightPanel is a simple desktop application for controlling Philips Hue lighting 
 * The settings dialog hasn't been implemented yet, so you have to paste a local network IP address and access hash for your Hue base station into the code before you compile.
 * It uses the colorspace conversion library from the [Q42.HueApi](https://github.com/Q42/Q42.HueApi) project.
 * I originally wanted this application to be a menubar agent, but there are bugs in NSPopover that make it work badly with NSStatusItem.
+
+## Screenshot
+
+![LightPanel](http://seg.phault.net/images/lightpanelscreen.png)
